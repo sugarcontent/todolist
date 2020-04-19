@@ -1,4 +1,4 @@
-#To Do List Application
+# To Do List Application
 ### `npm install`
 ### `npm run start`
 
